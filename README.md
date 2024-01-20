@@ -18,7 +18,7 @@
     <img align="center"  alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">   
 <div><br/>
 
-Apaixonado por tecnologia e educação, atualmente sou estagiário na área de desenvolvimento e a cada dia que se passa, mais apaixonado fico!
+Apaixonado por tecnologia e educação, atualmente sou estagiando na área de desenvolvimento e a cada dia que se passa, mais apaixonado fico!
 
 ## Alguns projetos
 -[ INTRODUÇÃO AO AMBIENTE E CONHECIMENTOS BÁSICOS NO PYTHON](https://www.youtube.com/watch?v=P4LkYCrVuKY&list=PLtrwTUXEhE7zw7NWaqmnRNzObGwVaeuEN)<br/>
